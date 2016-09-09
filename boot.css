@@ -1,0 +1,45 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+     background: url('bg.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin-bottom: 60px;
+}
+
+h1{
+    text-align: center;
+}
+
+.logo{
+    width: 35%;
+    height: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.jumbotron{
+    /*opacity: 0.7;*/
+    max-width: 70%;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.lead{
+    text-align: center;
+}
+
+/*.btn{
+    margin-right: 5%;
+    margin-left: 5%;
+}*/
+
+#mc_embed_signup{
+    text-align: center;
+}

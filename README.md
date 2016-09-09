@@ -1,1 +1,1 @@
-# qgdc.github.io
+#Queen's Game Design Club
